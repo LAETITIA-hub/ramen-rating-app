@@ -14,7 +14,7 @@ To get started with the project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/ramen-rating-app.git
+git clone https://github.com/LAETITIA-hub/ramen-rating-app.git
 Navigate to the project directory:
 
 cd ramen-rating-app
